@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+#rc.shutdown
+#
+
+python3 /usr/share/laptop/.user/script/shutdown.py
+
+exit 0
