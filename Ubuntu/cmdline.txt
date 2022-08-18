@@ -1,0 +1,1 @@
+zswap.enabled=1 zswap.zpool=z3fold zswap.compressor=zstd console=serial0,115200 console=tty1 root=LABEL=writable rootfstype=ext4 elevator=deadline rootwait fixrtc quiet splash 
